@@ -1,2 +1,2 @@
 # DinningPhilosopherProblem
-The Dinning Philosopher Problem
+This is the solution code for the famous Dining Philosopher Problem
